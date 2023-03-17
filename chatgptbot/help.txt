@@ -1,0 +1,6 @@
+/opt - set options to your session. Example of sintax:
+    bot_personality=Ansuer in frendly tone.
+    model={number} to set one of thouse:
+/default - to set your session settiongs to default
+/drop - to drop message - histoty
+/

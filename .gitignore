@@ -1,0 +1,11 @@
+.env
+.sessions/
+.venv/
+whiteList.txt
+__pycache__/
+oldbot.py
+pyright*
+err.html
+max.py
+maxgpt.txt
+whiteList.json
